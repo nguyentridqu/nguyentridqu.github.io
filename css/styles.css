@@ -26,13 +26,14 @@ h3 {
 .main {
   margin-left: 15%;
   margin-right: 15%;
-  margin-top: 40pt;
+  margin-top: 10pt;
   background-color: white;
   padding: 15pt;
 }
 
 body {
   background-color: grey;
+  font-family: sans-serif;
 }
 
 #topnavbar a {
