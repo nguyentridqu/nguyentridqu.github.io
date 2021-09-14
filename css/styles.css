@@ -13,6 +13,7 @@
   padding-top: 15pt;
   padding-bottom: 15pt;
   text-align: center;
+  z-index: 999;
 }
 
 hr {
@@ -42,4 +43,12 @@ body {
   padding-left: 7pt;
   padding-right: 7pt;
   color: white;
+}
+
+.section {
+  position: relative;
+}
+div a.anchor {
+  position: absolute;
+  top: -47pt;
 }
