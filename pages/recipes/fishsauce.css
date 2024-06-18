@@ -26,3 +26,13 @@ a {
     background-color: #3F3F3F;
     color:white;
 }
+
+.images {
+    height:300px;
+}
+
+#fishsauce-img {
+    
+    max-width:100%;
+    max-height:100%;
+}
