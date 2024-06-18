@@ -1,0 +1,28 @@
+h2 {
+    color: lightgoldenrodyellow;
+}
+
+h1 {
+    color: lightgreen;
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background: #333;
+    color:lightgray;
+}
+
+a {
+    color:deepskyblue;
+}
+
+.recipe {
+    padding-left: 24px;
+}
+
+.ingredients {
+    border:solid gray;
+    padding-left:24px;
+    background-color: #3F3F3F;
+    color:white;
+}
